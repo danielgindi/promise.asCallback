@@ -1,5 +1,5 @@
 {
-  "name": "promise.asCallback",
+  "name": "promise.ascallback",
   "version": "1.0.0",
   "description": "Converts a native Promise to a node.js-style callback.",
   "main": "src/asCallback.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/danielgindi/promise.asCallback"
+    "url": "https://github.com/danielgindi/promise.ascallback"
   },
   "keywords": [
     "promise",
@@ -18,9 +18,9 @@
   "author": "Daniel Cohen Gindi <danielgindi@gmail.com> (https://github.com/danielgindi)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/danielgindi/promise.asCallback/issues"
+    "url": "https://github.com/danielgindi/promise.ascallback/issues"
   },
-  "homepage": "https://github.com/danielgindi/promise.asCallback",
+  "homepage": "https://github.com/danielgindi/promise.ascallback",
   "dependencies": {
   }
 }

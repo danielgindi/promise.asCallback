@@ -1,20 +1,20 @@
-# promise.asCallback
+# promise.ascallback
 
-[![npm Version](https://badge.fury.io/js/promise.asCallback.png)](https://npmjs.org/package/promise.asCallback)
+[![npm Version](https://badge.fury.io/js/promise.ascallback.png)](https://npmjs.org/package/promise.ascallback)
 
 Converts a native Promise to a node.js-style callback.
 
 ## Installation:
 
 ```
-npm install --save promise.asCallback
+npm install --save promise.ascallback
 ```
   
 ## Usage example:
 
 ```javascript
 
-const asCallback = require('promise.asCallback');
+const asCallback = require('promise.ascallback');
 
 asCallback(myPromise, function (err, value) {
 
